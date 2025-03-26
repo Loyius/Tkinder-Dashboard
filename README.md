@@ -38,4 +38,4 @@ This repository is for educational purposes only. It is a recreation of the orig
 ### Cloning
 To clone this repository:  
    ```bash  
-   git clone https://github.com/<your-username>/Tkinter-Designer-Study-Guide.git  
+   git clone https://github.com/Loyius/Tkinder-Dashboard.git
